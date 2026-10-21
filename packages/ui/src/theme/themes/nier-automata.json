@@ -1,0 +1,53 @@
+{
+  "$schema": "https://opencode.ai/desktop-theme.json",
+  "name": "Nier Automata",
+  "id": "nier-automata",
+  "light": {
+    "palette": {
+      "neutral": "#cdc8ae",
+      "ink": "#2e2b26",
+      "primary": "#8f6930",
+      "accent": "#654d6b",
+      "success": "#566a3c",
+      "warning": "#7f743d",
+      "error": "#9a3f35",
+      "info": "#43615c",
+      "interactive": "#8f6930",
+      "diffAdd": "#667a4a",
+      "diffDelete": "#a9554a"
+    },
+    "overrides": {
+      "syntax-comment": "#6e6a5c",
+      "syntax-keyword": "#7f743d",
+      "syntax-string": "#566a3c",
+      "syntax-primitive": "#8f6930",
+      "syntax-property": "#43615c",
+      "syntax-type": "#8f6930",
+      "syntax-constant": "#7d5a26"
+    }
+  },
+  "dark": {
+    "palette": {
+      "neutral": "#232119",
+      "ink": "#e2dcc2",
+      "primary": "#c9a05e",
+      "accent": "#a291aa",
+      "success": "#96ab72",
+      "warning": "#b6a96b",
+      "error": "#d17a6d",
+      "info": "#8aaba4",
+      "interactive": "#c9a05e",
+      "diffAdd": "#7b8e5b",
+      "diffDelete": "#b45c50"
+    },
+    "overrides": {
+      "syntax-comment": "#7e7864",
+      "syntax-keyword": "#b6a96b",
+      "syntax-string": "#96ab72",
+      "syntax-primitive": "#c9a05e",
+      "syntax-property": "#8aaba4",
+      "syntax-type": "#c9a05e",
+      "syntax-constant": "#e2bd82"
+    }
+  }
+}

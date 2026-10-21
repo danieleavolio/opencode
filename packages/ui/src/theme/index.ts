@@ -62,6 +62,7 @@ export {
   matrixTheme,
   mercuryTheme,
   monokaiTheme,
+  nierAutomataTheme,
   nightowlTheme,
   nordTheme,
   oneDarkTheme,

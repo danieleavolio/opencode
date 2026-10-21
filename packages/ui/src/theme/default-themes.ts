@@ -20,6 +20,7 @@ import materialThemeJson from "./themes/material.json"
 import matrixThemeJson from "./themes/matrix.json"
 import mercuryThemeJson from "./themes/mercury.json"
 import monokaiThemeJson from "./themes/monokai.json"
+import nierAutomataThemeJson from "./themes/nier-automata.json"
 import nightowlThemeJson from "./themes/nightowl.json"
 import nordThemeJson from "./themes/nord.json"
 import oneDarkThemeJson from "./themes/one-dark.json"
@@ -78,6 +79,8 @@ export const mercuryTheme = mercuryThemeJson as DesktopTheme
 
 export const monokaiTheme = monokaiThemeJson as DesktopTheme
 
+export const nierAutomataTheme = nierAutomataThemeJson as DesktopTheme
+
 export const nightowlTheme = nightowlThemeJson as DesktopTheme
 
 export const nordTheme = nordThemeJson as DesktopTheme
@@ -130,6 +133,7 @@ export const DEFAULT_THEMES: Record<string, DesktopTheme> = {
   matrix: matrixTheme,
   mercury: mercuryTheme,
   monokai: monokaiTheme,
+  "nier-automata": nierAutomataTheme,
   nightowl: nightowlTheme,
   nord: nordTheme,
   "one-dark": oneDarkTheme,
